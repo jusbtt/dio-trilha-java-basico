@@ -50,7 +50,7 @@ O `ContaBanco` é um programa simples que solicita ao usuário informações com
 Olá JULYANE BRITO, obrigado por criar uma conta em nosso banco, sua agência é 010-1, conta 1030 e seu saldo 20.000,00 já está disponível para saque.
 
 ## Código
-[Clique aqui](https://github.com/jusbtt/dio-trilha-java-basico/ContaBanco/src/ContaTerminal.java)
+[Clique aqui](https://github.com/jusbtt/dio-trilha-java-basico/blob/main/src/ContaTerminal.java)
 ## Autor
 
 * Julyane Brito
